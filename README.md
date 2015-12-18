@@ -30,8 +30,8 @@ HTTP/1.0 404 Not Found<br>
 • Interpreta as tags htm e mostra na tela o texto recebido de modo apropriado;<br>
 
 - Ex.:<br>
-<NEG> testando o negrito </NEG>: <b>testando o negrito</b><br>
-<COR verde> testando a cor verde </COR>: O texto deve aparecer com a cor verde.<br>
+\<NEG\> testando o negrito \</NEG\>: <b>testando o negrito</b><br>
+\<COR verde\> testando a cor verde \</COR\>: O texto deve aparecer com a cor verde.<br>
 
 • A 1ª linha da resposta recebida deve ser no seguinte formato: HTTP/\<versão\> \<código\> \<status\><br>
 
